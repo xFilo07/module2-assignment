@@ -45,7 +45,7 @@ div.row > div {
 margin-bottom: 20px;
 margin-left: 20px;
 }
-@media (min-width: 787px) and (max-width: 991px) {
+@media (min-width: 768px) and (max-width: 991px) {
 	.col-md-6, .col-md-12 {
 	float: left;
 	}
